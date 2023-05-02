@@ -1,7 +1,7 @@
 # Bienvenido al Criptonómicon Rolo
 
 > «Quienes niegan la libertad a los demás, no la merecen para sí mismos»
-> 
+>  
 > Abraham Lincoln
 
 Hecho por su servidor, [Cannoli de Corozo](https://en.wikipedia.org/wiki/Cannoli), este pequeño blog los guiará por las páginas que recomiendo
