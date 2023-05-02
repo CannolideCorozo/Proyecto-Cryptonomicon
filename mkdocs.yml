@@ -1,0 +1,35 @@
+site_name: Criptonómicon Rolo
+
+theme:
+  name: material
+  language: es
+  palette:
+
+    primary: yellow
+  font:
+    text: Lexend Deca
+  features:
+
+    - search.suggest
+    - navigation.tabs
+    - header.autohide
+
+copyright: Copyright &copy; 2023 Cryptonomicon Rolo
+
+nav:
+    - Home: index.md
+    - Cinema y Lectura🍿📚: audio_visual.md
+    - Páginas Útiles🌐: paginas.md
+    - Software 💽 : Software.md
+
+plugins:
+  - search:
+      lang:
+        - es
+        - en
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
