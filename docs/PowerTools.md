@@ -20,8 +20,8 @@
 
 Cosas que puedes hacer con **Run**:
 
-1. **Buscar archivos**. Ej: <kbd>? road</kbd> para hallar "Roadmap.txt"
-2. **Buscar programas** Ej: <kbd>. code</kbd> para hallar Virtual Studio Code
-3. **Calculadora** Ej: <kbd>= 2+2</kbd>
+1. **Buscar archivos** usando <kbd>**?**</kbd> Ej: <kbd>? road</kbd> para hallar "Roadmap.txt"
+2. **Buscar programas** usando <kbd>**.** </kbd> Ej: <kbd>. code</kbd> para hallar Virtual Studio Code
+3. **Calculadora** usando <kbd>**=**</kbd> Ej: <kbd>= 2+2</kbd>
 
 Para más trucos, visitar este [link de la web de Microsoft](https://learn.microsoft.com/en-us/windows/powertoys/run)
