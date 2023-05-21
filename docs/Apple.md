@@ -9,7 +9,7 @@ Apple, sin lugar a dudas, es como esa manzana roja y brillante que todos querrí
 
 Pero, ¿sabías que lo verdaderamente emocionante está en su interior? ¡Así es! Estamos hablando del famoso sistema operativo de Apple: el macOS. ¿Alguna vez has escuchado que algunas aplicaciones o juegos de Windows no funcionan en Mac? Bueno, eso solía ser un problema... ¡pero ya no!
  
-Aunque, aunque algunos puedan ver limitaciones en el mundo de Apple, nosotros vemos oportunidades. Oportunidades para crear, aprender, jugar y, sobre todo, disfrutar de la tecnología de una manera sencilla y segura. Porque en el fondo, eso es lo que Apple busca ofrecer a todos sus usuarios: una experiencia que sea tan buena como su aspecto.
+Y bueno, aunque algunos puedan ver limitaciones en el mundo de Apple, nosotros vemos oportunidades. Oportunidades para crear, aprender, jugar y, sobre todo, disfrutar de la tecnología de una manera sencilla y segura. Porque en el fondo, eso es lo que Apple busca ofrecer a todos sus usuarios: una experiencia que sea tan buena como su aspecto.
 
 Aquí en Criptonomicón Rolo te presentamos las mejores aplicaciones para tu MacOS se siga manteniendo útil y a la vanguardia.
 
