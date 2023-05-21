@@ -20,4 +20,8 @@
 
 7. [NetSpot](https://www.netspotapp.com) :material-microsoft-windows::material-apple:: Una app un poco mas técnica, pero te permite ver las redes Wi-Fi a tu al rededor, revisar sus bandas y, si la usas bien, a optimizar tu propia señal.
 
+### Apple :material-apple:
+
+Para Software específico para MacOS, lo invitamos a revisar nuestra [sección](Apple.md) dedicada al sistema operativo de la manzana
+
 
