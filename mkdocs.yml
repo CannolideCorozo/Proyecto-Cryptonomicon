@@ -21,6 +21,7 @@ nav:
     - Cinema y Lectura🍿📚: audio_visual.md
     - Páginas Útiles🌐: paginas.md
     - Software 💽 : Software.md
+    - Apple 💻: Apple.md
 
 plugins:
   - search:
