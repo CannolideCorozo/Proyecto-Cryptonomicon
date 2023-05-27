@@ -18,7 +18,7 @@ Mover y anclar tus tabs, minimizarlas, maximizarlas y ajustarlas a tu antojo. ¡
 Potencia su barra de menús. Esto le permite un control absoluto sobre sus elementos. Puede decidir qué se muestra y cuándo, además, los elementos de la barra de menús solo aparecen cuando los necesitas.
 
 3. TopNotch[https://topnotch.app]:
-¿Cansado del Notch de tu nueva MacBook? Con esta sencilla aplicación puedes hacer que esta desaparezca (pintandola de negro) sin perder las utilidades que tiene el MenuBar!
+¿Cansado del notch de tu nueva MacBook? Con esta sencilla aplicación puedes hacer que este desaparezca (pintandolo de negro) sin perder las utilidades que tiene el MenuBar!
 
 ### Payware:
 1. [Parallels Desktop](https://www.parallels.com/es/):
