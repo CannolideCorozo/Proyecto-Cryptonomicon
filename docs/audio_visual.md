@@ -23,7 +23,7 @@
 #### Descargar (por medio de Torrenting 🧲):
 
 1. [YTS.MX](https://yts.mx/): Especializado en **Películas**
-2. [RAR.BG](https://rarbg.to/torrents.php?category[]=54) (**Series** y **Películas**)
+2. [Torrent Galaxy](https://torrentgalaxy.to/) (**Series** y **Películas**)
 
 ## Lectura📚
 
