@@ -3,8 +3,8 @@
 ### Streaming📺:
 
 #### Series y Películas (¡Tiene Subs en Español!)
-1. [TheFlixer](https://theflixer.tv/home): Página con Layout al estilo Cuevana. (**Series** y **Películas**)
-2. [Movie-Web](https://movie-web.app/search/movie): Página más sencilla. Tiene como ventaja que recuerda en dónde dejas el episodio/película al dejar la página. (**Series** y **Películas**)
+1. [Binged.in](https://binged.in/): Página predilecta para series y películas. Tiene la capacidad de guardar lo que estabas viendo y tiene una interfaz moderna. Opción recomendada de la casa (**Series** y **Películas**)
+2. [TheFlixer](https://theflixertv.to/home): Excelente Alternativa a Binged.in. Catálogo extenso y tiene una interfaz agradable. (**Series** y **Películas**)
 ##### Especialidades 🔎
 1. [South Park](https://www.southpark.lat) En esta página puedes encontrar todos los capítulos completos en HD y en el idioma de tu preferencia.
 2. [Series Antiguas](https://seriesantiguas.com/) Para suplir la nostalgia de esas eras más tranquilas en nuestras vidas. Series de Nick, en especial, con doblaje latino.
@@ -14,9 +14,9 @@
 
 #### Deportes🏅
 
-1. [Deportes USA](https://fullmatchtv.com/#)
-    - MLB, NHL, NBA & NFL
-2. [Futbol Libre](https://futbollibre.lol/): Para todas las necesidades futbolisticas
+1. [Deportes USA](https://streameasts.net/)
+    - MLB, NHL, MLS, NBA & NFL
+2. [Futbol Libre](https://librefutboltv.net/): Para todas las necesidades futbolísticas (LaLiga, Bundes, Premier, Champions, etc.)
 1. [F1](https://f1fullraces.com/) 
     - Todas las carreras, tanto históricas como contemporáneas.
 
@@ -32,7 +32,7 @@ Aquí se van a mostrar dos tipos de librerías. Las «librerías ocultas» conti
 - ¡Para poder ver, instalar en un Kindle, y modificar E-Books usen [Calibre](Software.md)!
 
 ### Dark Libraries (Librerias Ocultas):
-1. [Anna´s Archive](https://annas-archive.org/) Probablemente el sitio-web más completo de E-books y PDFs. Contenido tanto en **Inglés** como en **Español**.
+1. [Anna´s Archive](https://annas-archive.org/) Probablemente el sitio-web más completo de E-books y PDFs. Contenido tanto en **Inglés** como en **Español**. Si no está en Anna's, dificilmente lo vas a encontrar en algún otro sitio.
 2. [EPubLibres](https://www.epublibre.org/inicio/index) Contienen el abanico más grande de E-books especializados en la lengua **Castellana**.
 
 ### Librerías 
