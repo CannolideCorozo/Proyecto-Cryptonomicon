@@ -3,8 +3,10 @@
 ### Streaming📺:
 
 #### Series y Películas (¡Tiene Subs en Español!)
-1. [Binged.in](https://binged.in/): Página predilecta para series y películas. Tiene la capacidad de guardar lo que estabas viendo y tiene una interfaz moderna. Opción recomendada de la casa (**Series** y **Películas**)
-2. [TheFlixer](https://theflixertv.to/home): Excelente Alternativa a Binged.in. Catálogo extenso y tiene una interfaz agradable. (**Series** y **Películas**)
+1. [Braflix.ru](https://www.braflix.ru/): Página predilecta para series y películas. Tiene la capacidad de guardar lo que estabas viendo, creando un usuario, y tiene una interfaz moderna. Opción recomendada de la casa (**Series** y **Películas**)
+2. [Cuevana](https://cuevana.si/) Si bien es cierto que la página Cuevana tiene infinitos clones, Cuevana.si es la iteración más limpia y con menos anuncios de este mítico proyecto. Opción predilecta para ver contenido doblado al español(**Series** y **Películas** en **Español doblado**).
+3. [SFlix](https://theflixertv.to/home): Excelente alternativa a Braflix.ru. Catálogo extenso y tiene una interfaz agradable. (**Series** y **Películas**)
+
 ##### Especialidades 🔎
 1. [South Park](https://www.southpark.lat) En esta página puedes encontrar todos los capítulos completos en HD y en el idioma de tu preferencia.
 2. [Series Antiguas](https://seriesantiguas.com/) Para suplir la nostalgia de esas eras más tranquilas en nuestras vidas. Series de Nick, en especial, con doblaje latino.
@@ -16,7 +18,7 @@
 
 1. [Deportes USA](https://streameasts.net/)
     - MLB, NHL, MLS, NBA & NFL
-2. [Futbol Libre](https://librefutboltv.net/): Para todas las necesidades futbolísticas (LaLiga, Bundes, Premier, Champions, etc.)
+2. [Pelota Libre](https://librefutboltv.net/): Heredero de "Futbol Libre". Para todas las necesidades futbolísticas (LaLiga, Bundes, Premier, Champions, etc.)
 1. [F1](https://f1fullraces.com/) 
     - Todas las carreras, tanto históricas como contemporáneas.
 
